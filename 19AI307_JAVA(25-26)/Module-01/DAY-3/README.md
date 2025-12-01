@@ -53,13 +53,15 @@ public class TrianglePattern
 ```
 
 
+
+
 ## OUTPUT:
 <img width="399" height="395" alt="image" src="https://github.com/user-attachments/assets/07286d0c-5174-4702-8d58-34b630bd23d6" />
 
-
-
 ## RESULT:
 Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
+
+
 
 
 
